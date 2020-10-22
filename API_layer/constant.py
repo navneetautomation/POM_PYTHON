@@ -1,0 +1,1 @@
+URL="http://api.openweathermap.org/data/2.5/weather?q=Bangalore&appid=7fe67bf08c80ded756e598d6f8fedaea"
